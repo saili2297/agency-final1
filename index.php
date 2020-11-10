@@ -1,5 +1,5 @@
 <?php
 
-include_once("attempt1.html");
+include_once("staging.html");
 
 ?>
